@@ -15,7 +15,7 @@
   <Hosts>
     <Host Name="Workbook"/>
   </Hosts>
-  <DefaultSettings><SourceLocation DefaultValue=" https://hilarious-croquembouche-3023e3.netlify.app/taskpane.html”/>
+<SourceLocation DefaultValue="https://hilarious-croquembouche-3023e3.netlify.app/taskpane.html" />
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
     <Hosts>
